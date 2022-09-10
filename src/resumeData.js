@@ -22,22 +22,22 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am a recent graduate from the University of Utah's Full Stack Coding Bootcamp, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. As an innovative problem solver passionate about developing apps, I have a focus on mobile-first design and development. With each project, my aim is to best engage my audience for an impactful user experience.",
     "address":"Salt Lake City, UT, US",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"University of Utah",
+        "specialization":"Full Stack Coding Bootcamp",
         "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "YearOfPassing":"2022",
         "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
+        "UniversityName":"Utah State University",
+        "specialization":"Bachelor of Arts, Asian Studies",
+        "MonthOfPassing":"Aug",
+        "YearOfPassing":"2017",
         "Achievements":"Some Achievements"
       }
     ],
@@ -71,17 +71,17 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
+        "name":"Bit Trail",
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
       },
       {
-        "name":"project2",
+        "name":"National Mapper",
         "description":"mobileapp",
         "imgurl":"images/portfolio/project.jpg"
       },
       {
-        "name":"project3",
+        "name":"What to Watch?",
         "description":"mobileapp",  
         "imgurl":"images/portfolio/project2.png"
       },
