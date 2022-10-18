@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Hiroyuki S. Kagei",
-    "role": "Full-stack web developer leveraging psychology background to build a more intuitive user experience on the web",
+    "role": "Full-stack web developer leveraging healthcare background to build a more intuitive user experience on the web",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "As an innovative problem solver passionate about developing apps, I have a focus on mobile-first design and development. With each project, my aim is to best engage my audience for an impactful user experience.",
@@ -43,14 +43,14 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Wasatch Peak Family Practice",
+        "specialization":"Medical Coder/Biller",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Transcribed diagnoses and procedures for doctors"
       },
       {
-        "CompanyName":"Some Company",
+        "CompanyName":"Maximus Federal",
         "specialization":"Some specialization",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
