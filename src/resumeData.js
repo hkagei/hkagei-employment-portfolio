@@ -31,7 +31,14 @@ let resumeData = {
         "specialization":"Full Stack Coding Bootcamp",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2022",
-        "Achievements":"Some Achievements"
+        "Achievements":"Developed three applications and built several websites using newly acquired technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node.js, MySQL, MongoDB, Express, Handelbars.js, and ReactJS."
+      },
+      {
+        "UniversityName":"University of Utah",
+        "specialization":"Professional Medical Billing",
+        "MonthOfPassing":"Feb",
+        "YearOfPassing":"2021",
+        "Achievements":"Developed three applications and built several websites using newly acquired technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node.js, MySQL, MongoDB, Express, Handelbars.js, and ReactJS."
       },
       {
         "UniversityName":"Utah State University",
@@ -45,15 +52,15 @@ let resumeData = {
       {
         "CompanyName":"Wasatch Peak Family Practice",
         "specialization":"Medical Coder/Biller",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "MonthOfLeaving":"2022 - ",
+        "YearOfLeaving":"2023",
         "Achievements":"Transcribed diagnoses and procedures for doctors"
       },
       {
         "CompanyName":"Maximus Federal",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "specialization":"Tier I/II Customer Service Representative",
+        "MonthOfLeaving":"2018 - ",
+        "YearOfLeaving":"2022",
         "Achievements":"Some Achievements"
       }
     ],
@@ -64,6 +71,12 @@ let resumeData = {
       },
       {
         "skillname":"CSS"
+      },
+      {
+        "skillname":"JavaScript"
+      },
+      {
+        "skillname":"SQL"
       },
       {
         "skillname":"Reactjs"
