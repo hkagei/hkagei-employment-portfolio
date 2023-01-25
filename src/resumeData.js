@@ -8,7 +8,7 @@ let resumeData = {
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/hiroyuki-kagei-1391a8237/",
+          "url":"https://www.linkedin.com/in/hiroyuki-kagei/",
           "className":"fa fa-linkedin"
         },
         {
@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
+          "name":"twitter",
           "url":"http://twitter.com/hirokagei",
           "className":"fa fa-twitter"
         }
@@ -79,7 +79,7 @@ let resumeData = {
         "skillname":"SQL"
       },
       {
-        "skillname":"CSS"
+        "skillname":"MongoDB"
       },
       {
         "skillname":"Reactjs"
