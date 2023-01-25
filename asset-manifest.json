@@ -1,13 +1,13 @@
 {
-  "main.css": "/employment-portfolio/static/css/main.784b4c0b.chunk.css",
-  "main.js": "/employment-portfolio/static/js/main.fa3c8ae4.chunk.js",
-  "main.js.map": "/employment-portfolio/static/js/main.fa3c8ae4.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/employment-portfolio/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/employment-portfolio/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "/employment-portfolio/static/js/runtime~main.e00b7489.js",
-  "runtime~main.js.map": "/employment-portfolio/static/js/runtime~main.e00b7489.js.map",
-  "static/css/main.784b4c0b.chunk.css.map": "/employment-portfolio/static/css/main.784b4c0b.chunk.css.map",
-  "index.html": "/employment-portfolio/index.html",
-  "precache-manifest.304691e93b79d5de80fe898187963735.js": "/employment-portfolio/precache-manifest.304691e93b79d5de80fe898187963735.js",
-  "service-worker.js": "/employment-portfolio/service-worker.js"
+  "main.css": "/hkagei-employment-portfolio/static/css/main.784b4c0b.chunk.css",
+  "main.js": "/hkagei-employment-portfolio/static/js/main.2a169e2f.chunk.js",
+  "main.js.map": "/hkagei-employment-portfolio/static/js/main.2a169e2f.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/hkagei-employment-portfolio/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/hkagei-employment-portfolio/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/hkagei-employment-portfolio/static/js/runtime~main.c06f9b1a.js",
+  "runtime~main.js.map": "/hkagei-employment-portfolio/static/js/runtime~main.c06f9b1a.js.map",
+  "static/css/main.784b4c0b.chunk.css.map": "/hkagei-employment-portfolio/static/css/main.784b4c0b.chunk.css.map",
+  "index.html": "/hkagei-employment-portfolio/index.html",
+  "precache-manifest.29ea690b40db277ea8ca77835cb1b6d4.js": "/hkagei-employment-portfolio/precache-manifest.29ea690b40db277ea8ca77835cb1b6d4.js",
+  "service-worker.js": "/hkagei-employment-portfolio/service-worker.js"
 }

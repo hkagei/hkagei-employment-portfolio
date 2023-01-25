@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/employment-portfolio/precache-manifest.304691e93b79d5de80fe898187963735.js"
+  "/hkagei-employment-portfolio/precache-manifest.29ea690b40db277ea8ca77835cb1b6d4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/employment-portfolio/index.html", {
+workbox.routing.registerNavigationRoute("/hkagei-employment-portfolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
