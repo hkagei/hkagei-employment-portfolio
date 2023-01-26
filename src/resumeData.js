@@ -54,14 +54,14 @@ let resumeData = {
         "specialization":"Medical Coder/Biller",
         "MonthOfLeaving":"2022 - ",
         "YearOfLeaving":"2023",
-        "Achievements":"Transcribed diagnoses and procedures for doctors"
+        "Achievements":"Accounts for coding and abstracting of patient encounters, including diagnostic and procedural information, significant reportable elements, and complications. Assigns ICD-10 and CPT codes for reimbursements, research and compliance with regulatory requirements utilizing guidelines."
       },
       {
         "CompanyName":"Maximus Federal",
         "specialization":"Tier I/II Customer Service Representative",
         "MonthOfLeaving":"2018 - ",
         "YearOfLeaving":"2022",
-        "Achievements":"Some Achievements"
+        "Achievements":"Enrolls consumers into health insurance plans by completing phone-based applications, and answers questions for consumers about their health insurance policies through the Affordable Care Act and Medicare."
       }
     ],
     "skillsDescription":"Your skills here",
