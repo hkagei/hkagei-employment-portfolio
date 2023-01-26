@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"I am a recent graduate from the University of Utah's Full Stack Coding Bootcamp, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. As an innovative problem solver passionate about developing apps, I have a focus on mobile-first design and development. With each project, my aim is to best engage my audience for an impactful user experience.",
     "address":"Salt Lake City, UT, US",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://hkagei.github.io",
     "education":[
       {
         "UniversityName":"University of Utah",
