@@ -53,7 +53,7 @@ let resumeData = {
         "CompanyName":"Wasatch Peak Family Practice",
         "specialization":"Medical Coder/Biller",
         "MonthOfLeaving":"2022 - ",
-        "YearOfLeaving":"2023",
+        "YearOfLeaving":"",
         "Achievements":"Accounts for coding and abstracting of patient encounters, including diagnostic and procedural information, significant reportable elements, and complications. Assigns ICD-10 and CPT codes for reimbursements, research and compliance with regulatory requirements utilizing guidelines."
       },
       {
