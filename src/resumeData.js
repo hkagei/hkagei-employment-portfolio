@@ -24,7 +24,8 @@ let resumeData = {
       ],
     "aboutme":"I am a recent graduate from the University of Utah's Full Stack Coding Bootcamp, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. As an innovative problem solver passionate about developing apps, I have a focus on mobile-first design and development. With each project, my aim is to best engage my audience for an impactful user experience.",
     "address":"Salt Lake City, UT, US",
-    "website":"https://hkagei.github.io",
+    "email":"hiroyuki.sean.kagei@outlook.com",
+    "website":"https://github.com/hkagei",
     "education":[
       {
         "UniversityName":"University of Utah",
@@ -38,7 +39,7 @@ let resumeData = {
         "specialization":"Professional Medical Billing",
         "MonthOfPassing":"Feb",
         "YearOfPassing":"2021",
-        "Achievements":"Developed three applications and built several websites using newly acquired technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node.js, MySQL, MongoDB, Express, Handelbars.js, and ReactJS."
+        "Achievements":"Honed skills in ICD-10-CM, and CPT/HCPCS coding through a self-paced program, while receiving extensive training in the biomedical sciences, as well as gaining real-world experience in coding a variety of reports in multiple specialties."
       },
       {
         "UniversityName":"Utah State University",
@@ -60,7 +61,7 @@ let resumeData = {
         "CompanyName":"Maximus Federal",
         "specialization":"Tier I/II Customer Service Representative",
         "MonthOfLeaving":"2018 - ",
-        "YearOfLeaving":"2022",
+        "YearOfLeaving":"2021",
         "Achievements":"Enrolls consumers into health insurance plans by completing phone-based applications, and answers questions for consumers about their health insurance policies through the Affordable Care Act and Medicare."
       }
     ],

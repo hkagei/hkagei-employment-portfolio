@@ -33,7 +33,9 @@ export default class About extends Component {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
+                    <span href="mailto:hiroyuki.sean.kagei@outlook.com">{resumeData.email}</span>
+                    <br></br>
+                    <span href="https://github.com/hkagei">{resumeData.website}</span>
        					   </p>
                   </div>
                </div>
