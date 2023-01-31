@@ -17,8 +17,8 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"twitter",
-          "url":"http://twitter.com/hirokagei",
+          "name":"resume",
+          "url":"https://docs.google.com/document/d/1Lz00IcBKyE825MLFjwkKV9vcuqMO03wjbSkb55CtVJI",
           "className":"fa fa-twitter"
         }
       ],
