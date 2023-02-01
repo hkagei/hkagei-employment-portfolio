@@ -9,7 +9,6 @@ export default class ContactUs extends Component {
               <p className="lead">
               Feel free to contact me for any work or suggestions below
               </p>
-              <a href='https://docs.google.com/document/d/1Lz00IcBKyE825MLFjwkKV9vcuqMO03wjbSkb55CtVJI/edit#'>My Resume</a>
             </div>
           </div>
           <div className="row">
