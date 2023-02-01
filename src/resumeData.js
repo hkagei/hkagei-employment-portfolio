@@ -17,15 +17,15 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"resume",
-          "url":"https://docs.google.com/document/d/1Lz00IcBKyE825MLFjwkKV9vcuqMO03wjbSkb55CtVJI",
+          "name":"twitter",
+          "url":"http://twitter.com/hirokagei",
           "className":"fa fa-twitter"
         }
       ],
     "aboutme":"I am a recent graduate from the University of Utah's Full Stack Coding Bootcamp, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. As an innovative problem solver passionate about developing apps, I have a focus on mobile-first design and development. With each project, my aim is to best engage my audience for an impactful user experience.",
     "address":"Salt Lake City, UT, US",
     "email":"hiroyuki.sean.kagei@outlook.com",
-    "website":"https://github.com/hkagei",
+    "website":"https://docs.google.com/document/d/1Lz00IcBKyE825MLFjwkKV9vcuqMO03wjbSkb55CtVJI/",
     "education":[
       {
         "UniversityName":"University of Utah",

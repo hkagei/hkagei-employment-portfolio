@@ -22,6 +22,7 @@ export default class Header extends Component {
          <div className="row banner">
             <div className="banner-text">
                <h1 className="responsive-headline">{resumeData.name}</h1>
+               <p><a href='https://docs.google.com/document/d/1Lz00IcBKyE825MLFjwkKV9vcuqMO03wjbSkb55CtVJI/edit#'>Click here</a> to view my resume</p>
                <h3 style={{color:'#fff', fontFamily:'sans-serif '}}>I am a {resumeData.role}. {resumeData.roleDescription}
                </h3>
                <hr/>
