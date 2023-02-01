@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hkagei-employment-portfolio/precache-manifest.000b04f140aadaac5c436847a976ddee.js"
+  "/hkagei-employment-portfolio/precache-manifest.43eec97054fd2eb70f1bf8b50bf30fc5.js"
 );
 
 workbox.clientsClaim();
